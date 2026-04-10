@@ -5,27 +5,27 @@
 This project analyzes customer churn behavior in a telecom company to identify key factors influencing customer attrition and provide actionable business recommendations.
 
 ## 🎯 Objectives
-Identify high-risk customer segments
-Analyze churn across demographics, services, and contracts
-Provide data-driven retention strategies
+- Identify high-risk customer segments
+- Analyze churn across demographics, services, and contracts
+P- rovide data-driven retention strategies
 
 ## 🛠️ Tools Used
-SQL (Data Cleaning & Analysis)
-Power BI (Dashboard & Visualization)
-Excel (Initial exploration)
+- SQL (Data Cleaning & Analysis)
+- Power BI (Dashboard & Visualization)
+- Excel (Initial exploration)
 
 ## 📊 Key Insights
-Customers with month-to-month contracts have the highest churn (~43%)
-Customers with tenure less than 1 year show the highest churn (~47%)
-Fiber optic users have higher churn (~41%)
-Customers without services like Tech Support and Online Security churn more
-Electronic check users show the highest churn (~45%)
+- Customers with month-to-month contracts have the highest churn (~43%)
+- Customers with tenure less than 1 year show the highest churn (~47%)
+- Fiber optic users have higher churn (~41%)
+- Customers without services like Tech Support and Online Security churn more
+- Electronic check users show the highest churn (~45%)
 
 ## 💡 Business Recommendations
-Promote long-term contracts with incentives
-Improve onboarding for new customers
-Bundle value-added services (Tech Support, Security)
-Optimize payment experience for electronic check users
+- Promote long-term contracts with incentives
+- Improve onboarding for new customers
+- Bundle value-added services (Tech Support, Security)
+- Optimize payment experience for electronic check users
 
 ## 📸 Dashboard Preview
 
