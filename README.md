@@ -24,6 +24,17 @@ It also includes a machine learning model to predict customer churn.
 - Python (Machine Learning)
 - Scikit-learn, Imbalanced-learn (SMOTE)
 
+## Data Cleaning & Preparation
+- Removed unnecessary columns (e.g., Customer ID)
+- Handled missing values in TotalCharges using median
+- Converted Churn column into numeric format (1 = Churned, 0 = Retained)
+- Verified data consistency and handled null values across multiple columns
+## Key Metrics
+- Total Customers
+- Churn Rate (%)
+- Churned Customers
+- Revenue Loss (based on Monthly Charges)
+
 ## 🤖 Machine Learning Model
 
 A Logistic Regression model was built to predict customer churn.
