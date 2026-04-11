@@ -1,18 +1,39 @@
-# 📊 Customer Churn Analysis
+# 📊 Customer Churn Prediction and Analysis
 
 ## 🔍 Project Overview
 
 This project analyzes customer churn behavior in a telecom company to identify key factors influencing customer attrition and provide actionable business recommendations.
+- It also includes a machine learning model to predict customer churn.
 
 ## 🎯 Objectives
 - Identify high-risk customer segments
 - Analyze churn across demographics, services, and contracts
-P- rovide data-driven retention strategies
-
+- Provide data-driven retention strategies
+- Build a predictive model to identify churn-prone customers
+  
 ## 🛠️ Tools Used
 - SQL (Data Cleaning & Analysis)
 - Power BI (Dashboard & Visualization)
 - Excel (Initial exploration)
+- Python (Machine Learning)
+- Scikit-learn, Imbalanced-learn (SMOTE)
+
+## 🤖 Machine Learning Model
+
+A Logistic Regression model was built to predict customer churn.
+
+### 🔧 Approach
+- Data preprocessing using ColumnTransformer
+- OneHotEncoding for categorical variables
+- Feature scaling using StandardScaler
+- Handling class imbalance using SMOTE
+- Model built using a pipeline
+
+## 📈 Model Performance
+- Recall: ~91%
+- ROC-AUC: ~0.84
+
+- 👉 Threshold tuning (0.3) was applied to improve recall and capture more churn customers.
 
 ## 📊 Key Insights
 - Customers with month-to-month contracts have the highest churn (~43%)
@@ -33,4 +54,4 @@ P- rovide data-driven retention strategies
 
 ## 🚀 Conclusion
 
-This analysis highlights key drivers of churn and provides actionable strategies to improve customer retention and reduce revenue loss.
+This project combines data analysis and machine learning to uncover key drivers of churn and build a predictive system that helps businesses take proactive actions to retain customers.
