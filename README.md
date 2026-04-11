@@ -5,6 +5,11 @@
 This project analyzes customer churn behavior in a telecom company to identify key factors influencing customer attrition and provide actionable business recommendations.
 - It also includes a machine learning model to predict customer churn.
 
+## 🚀 Live Demo
+
+## 👉 Try the app here: https://your-app.streamlit.app
+
+
 ## 🎯 Objectives
 - Identify high-risk customer segments
 - Analyze churn across demographics, services, and contracts
@@ -34,6 +39,17 @@ A Logistic Regression model was built to predict customer churn.
 - ROC-AUC: ~0.84
 
 - 👉 Threshold tuning (0.3) was applied to improve recall and capture more churn customers.
+
+## 🌐 Web Application
+
+-The project is deployed using Streamlit, allowing users to input customer details and get real-time churn predictions.
+
+### Features:
+
+- Interactive UI for user input
+- Real-time churn probability prediction
+- Threshold-based classification
+
 
 ## 📊 Key Insights
 - Customers with month-to-month contracts have the highest churn (~43%)
