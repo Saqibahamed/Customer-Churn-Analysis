@@ -3,11 +3,12 @@
 ## 🔍 Project Overview
 
 This project analyzes customer churn behavior in a telecom company to identify key factors influencing customer attrition and provide actionable business recommendations.
-- It also includes a machine learning model to predict customer churn.
+
+It also includes a machine learning model to predict customer churn.
 
 ## 🚀 Live Demo
 
-## 👉 Try the app here: [https://your-app.streamlit.app](https://customer-churn-prediction-and-analysis12.streamlit.app/)
+## 👉 Try the app here: [Customer Churn Prediction](https://customer-churn-prediction-and-analysis12.streamlit.app/)
 
 
 ## 🎯 Objectives
