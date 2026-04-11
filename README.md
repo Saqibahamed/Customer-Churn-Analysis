@@ -7,7 +7,7 @@ This project analyzes customer churn behavior in a telecom company to identify k
 
 ## 🚀 Live Demo
 
-## 👉 Try the app here: https://your-app.streamlit.app
+## 👉 Try the app here: [https://your-app.streamlit.app](https://customer-churn-prediction-and-analysis12.streamlit.app/)
 
 
 ## 🎯 Objectives
